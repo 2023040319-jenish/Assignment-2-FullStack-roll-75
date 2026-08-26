@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Mira Patel", "email": "mira@northstar.dev", "department": "Engineering", "role": "Frontend Lead", "location": "Mumbai" },
+  { "id": 2, "name": "Jon Bell", "email": "jon@northstar.dev", "department": "Product", "role": "Product Manager", "location": "London" },
+  { "id": 3, "name": "Leena Rao", "email": "leena@northstar.dev", "department": "Design", "role": "UX Designer", "location": "Bengaluru" },
+  { "id": 4, "name": "Noah Williams", "email": "noah@northstar.dev", "department": "Engineering", "role": "Backend Engineer", "location": "New York" },
+  { "id": 5, "name": "Sara Khan", "email": "sara@northstar.dev", "department": "People", "role": "People Partner", "location": "Pune" }
+]

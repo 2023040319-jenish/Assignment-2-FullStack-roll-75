@@ -1,0 +1,8 @@
+[
+  { "id": 1, "firstname": "Aarav", "lastname": "Mehta", "email": "aarav@college.edu", "semester": 1, "div": "A", "gender": "Male", "course": "BCA" },
+  { "id": 2, "firstname": "Diya", "lastname": "Shah", "email": "diya@college.edu", "semester": 2, "div": "B", "gender": "Female", "course": "BSc IT" },
+  { "id": 3, "firstname": "Kabir", "lastname": "Joshi", "email": "kabir@college.edu", "semester": 3, "div": "A", "gender": "Male", "course": "BCA" },
+  { "id": 4, "firstname": "Ishita", "lastname": "Nair", "email": "ishita@college.edu", "semester": 4, "div": "C", "gender": "Female", "course": "BSc CS" },
+  { "id": 5, "firstname": "Rohan", "lastname": "Desai", "email": "rohan@college.edu", "semester": 2, "div": "A", "gender": "Male", "course": "BCA" },
+  { "id": 6, "firstname": "Zoya", "lastname": "Khan", "email": "zoya@college.edu", "semester": 3, "div": "B", "gender": "Female", "course": "BSc IT" }
+]
